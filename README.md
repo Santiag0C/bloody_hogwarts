@@ -58,7 +58,7 @@ I see a list of students with the following information:
 User Story 2 of 4
 
 As a visitor, 
-When I visit '/students/:id'
+When I visit '/students'
 I see a list of the students' courses.
 
 (e.g. "Defense against the Dark Arts"
@@ -92,7 +92,7 @@ User Story Extension
 
 Students index page shows students in alphabetical order.
 Courses index page shows courses in alphabetical order.
-And the courses index page also shows students per course in alphabetical order.
+And shows students per course in alphabetical order.
 
 (e.g. "Defense Against the Dark Arts: 3"
       "- Elizabeth Burke"  
